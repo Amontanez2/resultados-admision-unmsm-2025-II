@@ -17,10 +17,15 @@ Brindar una vista clara y estructurada de los resultados de admisión mediante d
 ---
 
 🔍 Métricas destacadas
+
 ✅ Total de postulantes e ingresantes
+
 📍 Postulantes por departamento de procedencia
+
 🎯 Puntaje promedio de los ingresantes
+
 🧾 Vacantes alcanzadas por carrera
+
 ❌ Número de ausentes
 
 📊 Distribución por áreas académicas (A, B, C, D, E)
