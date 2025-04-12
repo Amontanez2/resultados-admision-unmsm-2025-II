@@ -33,6 +33,7 @@ Brindar una vista clara y estructurada de los resultados de admisión mediante d
 ---
 
 🛠️ Tecnologías utilizadas
+
 Python para la automatización de extracción de datos vía web scraping
 
 Power BI para la visualización y análisis de datos
