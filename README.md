@@ -47,3 +47,6 @@ Datos extraídos desde archivos CSV por escuela profesional
 ## Vista Previa del Dashboard
 ![Admision Dashboard](https://github.com/Amontanez2/resultados-admision-unmsm-2025-II/blob/main/ResultadosAdmisionUNMSM2025.PNG?raw=true)
 
+---
+![Admision Dashboard](https://github.com/Amontanez2/resultados-admision-unmsm-2025-II/blob/main/ResultadosAdmisionUNMSM2025-1.PNG?raw=true)
+
