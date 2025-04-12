@@ -42,3 +42,7 @@ Transformación de datos con Power Query
 Cálculos mediante medidas DAX
 
 Datos extraídos desde archivos CSV por escuela profesional
+
+## Vista Previa del Dashboard
+
+
