@@ -30,6 +30,8 @@ Brindar una vista clara y estructurada de los resultados de admisión mediante d
 
 📊 Distribución por áreas académicas (A, B, C, D, E)
 
+
+
 🛠️ Tecnologías utilizadas
 Python para la automatización de extracción de datos vía web scraping
 
