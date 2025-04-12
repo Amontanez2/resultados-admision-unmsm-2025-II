@@ -16,16 +16,22 @@ Brindar una vista clara y estructurada de los resultados de admisión mediante d
 
 ---
 
-## 📁 Contenido del repositorio
+🔍 Métricas destacadas
+✅ Total de postulantes e ingresantes
+📍 Postulantes por departamento de procedencia
+🎯 Puntaje promedio de los ingresantes
+🧾 Vacantes alcanzadas por carrera
+❌ Número de ausentes
 
-```markdown
-📂 resultados-admision-unmsm-2025-II/
-├── resultados_admision.pbix           # Archivo principal del proyecto Power BI
-├── datos/
-│   ├── medicina.csv
-│   ├── ingenieria.csv
-│   └── ...
-├── scraping/
-│   └── obtener_datos_unmsm.py        # Script Python de web scraping
-└── README.md                          # Descripción del proyecto
+📊 Distribución por áreas académicas (A, B, C, D, E)
 
+🛠️ Tecnologías utilizadas
+Python para la automatización de extracción de datos vía web scraping
+
+Power BI para la visualización y análisis de datos
+
+Transformación de datos con Power Query
+
+Cálculos mediante medidas DAX
+
+Datos extraídos desde archivos CSV por escuela profesional
