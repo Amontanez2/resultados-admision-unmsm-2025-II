@@ -50,3 +50,23 @@ Datos extraídos desde archivos CSV por escuela profesional
 ---
 ![Admision Dashboard](https://github.com/Amontanez2/resultados-admision-unmsm-2025-II/blob/main/ResultadosAdmisionUNMSM2025-1.PNG?raw=true)
 
+
+
+# Modelado de Datos
+
+El modelo de datos fue diseñado bajo una estructura en estrella, teniendo como tabla de hechos principal a Resultados_Admision, la cual contiene los registros detallados de cada postulante, incluyendo su escuela profesional, puntaje, mérito y condición. Esta tabla se relaciona con diversas dimensiones para enriquecer el análisis:
+
+Dim_Escuela_Profesional: vincula cada postulante con su escuela y área académica.
+
+Dim_Estudiantes: permite identificar de forma única a cada postulante.
+
+Dim_Ubicacion: asocia la ubicación geográfica de los postulantes, clave para el análisis por departamentos.
+
+Otras tablas como Datos_Adicionales o AREAS DE PROVINCIA se utilizaron como soporte durante el proceso de depuración y validación.
+
+Gracias a este diseño relacional y limpio, se logró un análisis eficiente y dinámico en Power BI, facilitando la creación de medidas DAX para métricas clave como vacantes, puntajes promedio, ingresantes y ausentes.
+
+📌 A continuación se muestra una imagen del modelo de datos implementado:
+
+
+
