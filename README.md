@@ -68,5 +68,5 @@ Gracias a este diseño relacional y limpio, se logró un análisis eficiente y d
 
 📌 A continuación se muestra una imagen del modelo de datos implementado:
 
-
+![Admision Dashboard](https://github.com/Amontanez2/resultados-admision-unmsm-2025-II/blob/main/modelado%20de%20datos.PNG?raw=true)
 
